@@ -8,3 +8,5 @@
 generate_multiple_tests(num_tests=1, num_words=36)
 
 目前词汇~500个
+
+pip install -r requirements.txt
