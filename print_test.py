@@ -26,8 +26,8 @@ def create_vocabulary_test(words, num_words=20):
 
 # Paths to fonts
 #chinese_font_path = '/Users/apple/Library/Fonts/NotoSansCJKscVF.ttf'
-chinese_font_path = '/System/Library/Fonts/Supplemental/Arial Unicode.ttf'
-phonetic_font_path = '/System/Library/Fonts/Supplemental/Arial Unicode.ttf'
+chinese_font_path = 'Arial Unicode.ttf'
+phonetic_font_path = 'Arial Unicode.ttf'
 
 # Register the fonts
 try:
